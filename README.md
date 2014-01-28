@@ -1,4 +1,4 @@
-sgmeteor
+SGMeteor (Meteor Framework taking advantage of SendGrid Webhooks)
 ========
 This application uses the sendgrid parse webhook to change the background color of http://hook.meteor.com. 
 
